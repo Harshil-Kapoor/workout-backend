@@ -1,0 +1,14 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node workout"
+  },
+  "dependencies": {
+    "botkit": "latest",
+    "mongodb": "latest",
+    "apiai": "latest",
+    "json-bigint": "latest",
+    "request": "latest"
+  }
+}
